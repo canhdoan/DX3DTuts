@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+# Ignore folders
+/[Dd]ebug/
+/[Dd]X3DTuts/[Dd]ebug/
