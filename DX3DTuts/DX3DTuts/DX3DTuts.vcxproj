@@ -19,12 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Code\d3dclass.cpp" />
     <ClCompile Include="Code\graphicsclass.cpp" />
     <ClCompile Include="Code\inputclass.cpp" />
     <ClCompile Include="Code\main.cpp" />
     <ClCompile Include="Code\systemclass.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Code\d3dclass.h" />
     <ClInclude Include="Code\graphicsclass.h" />
     <ClInclude Include="Code\inputclass.h" />
     <ClInclude Include="Code\systemclass.h" />

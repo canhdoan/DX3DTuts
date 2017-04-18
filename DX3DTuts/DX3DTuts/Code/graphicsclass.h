@@ -2,6 +2,7 @@
 #define __GRAPHICS_CLASS_H__
 
 #include <windows.h>
+#include ""
 
 // GLOBALS
 const bool FULL_SCREEN = false;
@@ -21,6 +22,9 @@ public:
 
 private:
 	bool Render();
+
+private:
+	
 };
 
 
