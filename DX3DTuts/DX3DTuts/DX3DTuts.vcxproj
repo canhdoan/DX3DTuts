@@ -19,16 +19,22 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Code\cameraclass.cpp" />
+    <ClCompile Include="Code\colorshaderclass.cpp" />
     <ClCompile Include="Code\d3dclass.cpp" />
     <ClCompile Include="Code\graphicsclass.cpp" />
     <ClCompile Include="Code\inputclass.cpp" />
     <ClCompile Include="Code\main.cpp" />
+    <ClCompile Include="Code\modelclass.cpp" />
     <ClCompile Include="Code\systemclass.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Code\cameraclass.h" />
+    <ClInclude Include="Code\colorshaderclass.h" />
     <ClInclude Include="Code\d3dclass.h" />
     <ClInclude Include="Code\graphicsclass.h" />
     <ClInclude Include="Code\inputclass.h" />
+    <ClInclude Include="Code\modelclass.h" />
     <ClInclude Include="Code\systemclass.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
